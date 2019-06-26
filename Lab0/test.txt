@@ -1,2 +1,3 @@
 Arleth Salinas, arleth@uchicago
 CAAP - Introduction to Software Development
+Git is pretty cool
