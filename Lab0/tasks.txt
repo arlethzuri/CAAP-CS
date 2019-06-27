@@ -1,3 +1,7 @@
 "Task 6" 
 "------" 
-"I found a resource on GitHub's website telling me to use 'git commit --amend' and it worked" 
+"I found a resource on GitHub's website (https://help.github.com/en/articles/changing-a-commit-message) telling me to use 'git commit --amend' and it worked" 
+The commit SHA is c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168 
+"Add --no-mouse option to replace FZF_MOUSE_ENABLED" 
+To find this commit, I initially scrolled through the log of commits, but then I realized I was utterly lost and that there's a large number of commits. So I found a resource (https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) and found out that using "--grep" followed by a string I'm looking for would show commit messages that contain that string. 
+I used "git diff" and was able to see my changes (https://stackoverflow.com/questions/17244471/see-diff-between-current-state-and-last-commit)
