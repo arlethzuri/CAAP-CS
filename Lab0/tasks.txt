@@ -1,2 +1,3 @@
 "Task 6" 
 "------" 
+"I found a resource on GitHub's website telling me to use 'git commit --amend' and it worked" 
