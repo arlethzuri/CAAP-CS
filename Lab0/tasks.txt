@@ -4,4 +4,4 @@
 The commit SHA is c7e86ad4f1061b0cad9f64a6c9ad26f386bc1168 
 "Add --no-mouse option to replace FZF_MOUSE_ENABLED" 
 To find this commit, I initially scrolled through the log of commits, but then I realized I was utterly lost and that there's a large number of commits. So I found a resource (https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) and found out that using "--grep" followed by a string I'm looking for would show commit messages that contain that string. 
-I used "git diff" and was able to see my changes (https://stackoverflow.com/questions/17244471/see-diff-between-current-state-and-last-commit)
+I used "git diff" and was able to see my changes (https://stackoverflow.com/questions/17244471/see-diff-between-current-state-and-last-commit)"I tried to use git revert HEAD~1, however, I don't think I successfully performed this command." 
