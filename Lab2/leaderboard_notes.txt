@@ -1,0 +1,9 @@
+Leaderboard Stuff:
+
+init: creates board, a list
+
+print_board: prints board, duh
+
+update: does the score even go on the board
+
+insert: insert score into proper spot on leaderboard
