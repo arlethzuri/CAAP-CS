@@ -1,0 +1,34 @@
+Lab 1
+CAAP CMSC 101, Summer 2019
+
+Required Elements/Attributes
+  Correct use                                                                 _/3
+  Used all                                                                    _/3
+  Balanced amount                                                             _/3
+
+Semantic markup
+  Well structured hierarchies                                                 _/20
+
+Correct use of directories/files
+  Links                                                                       _/5
+  In docs directory (* should have same directories as given*)                _/5
+  Git sites works                                                             _/10
+
+Validation
+  Both pages and stylesheets                                                  _/20
+
+Design/CSS
+  Dynamic screen size                                                         _/5
+  Efficient use of CSS on multiple pages                                      _/10
+  Professional design in both pages                                           _/5
+ 
+
+Code style
+  format (* code looks good *)                                                _/3 
+  clarity (* logic is expressed clearly *)                                    _/3 
+  decomposition (* problems are factored into sensible subproblems *)         _/3
+  efficiency (* blatant inefficiencies are avoided *)                         _/2
+
+Bonus:                                                                        _/0
+
+Total                                                                         _/100

@@ -1,0 +1,16 @@
+Lab 0
+CAAP CMSC 101, Summer 2019
+
+Task 1: 				_/10 points
+Task 2: 				_/5 points
+Task 3: 				_/5 points
+Task 4:					_/5 points
+Task 5:					_/5 points
+Task 6: 				_/5 points
+Task 7: 				_/5 points
+Task 8:					_/5 points
+Task 9:					_/5 points
+Task 10:				_/10 points
+Task 11 (Bonus):		_/0 points
+
+Total: 					_/60

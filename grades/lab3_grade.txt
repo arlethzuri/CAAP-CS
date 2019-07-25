@@ -1,0 +1,32 @@
+Lab 3
+CAAP CMSC 101, Summer 2019
+
+Required Elements/Attributes/Functions
+  Used all modules                                                            _/3
+  Implemented all required functions                                          _/3
+  Added matrix to code                                                        _/3
+
+Semantics/Syntax
+  Well structured modules                                                     _/20
+
+Correct use of directories/files                                              _/20
+
+Tests
+  All pages/functions work correctly                                          _/15
+  Has multiple test functions where regular and corner cases are tested       _/5
+
+Design/Classes/Modules
+  Dynamic gameplay/user input                                                 _/5
+  Efficient use of classes/global variables                                   _/10
+  Supports user and pc mode                                                   _/5
+  
+
+Code style
+  format (* code looks good *)                                                _/3 
+  clarity (* logic is expressed clearly *)                                    _/3 
+  decomposition (* problems are factored into sensible subproblems *)         _/3
+  efficiency (* blatant inefficiencies are avoided *)                         _/2
+
+Bonus:                                                                        _/0
+
+Total                                                                         _/100

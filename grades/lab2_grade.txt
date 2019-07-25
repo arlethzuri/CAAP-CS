@@ -1,0 +1,32 @@
+Lab 2
+CAAP CMSC 101, Summer 2019
+Student Graded:
+
+Required Elements/Attributes/Functions
+  Used all modules                                                            _/3
+  Implemented all required functions                                          _/3
+  Added game content/more new scenes                                          _/3 
+
+Semantics/Syntax
+  Well structured modules                                                     _/20
+
+Correct use of directories/files                                              _/20
+
+Tests
+  All pages/functions work correctly                                          _/20
+
+Design/Classes/Modules
+  Dynamic gameplay/difficulty                                                 _/5
+  Efficient use of classes/global variables                                   _/10
+  Interesting storyline                                                       _/5
+  
+
+Code style
+  format (* code looks good *)                                                _/3 
+  clarity (* logic is expressed clearly *)                                    _/3 
+  decomposition (* problems are factored into sensible subproblems *)         _/3
+  efficiency (* blatant inefficiencies are avoided *)                         _/2
+
+Bonus:                                                                        _/0
+
+Total                                                                         _/100
