@@ -30,5 +30,6 @@ Code style
   efficiency (* blatant inefficiencies are avoided *)                         _/2
 
 Bonus:                                                                        _/0
+Late:                                                                        -5/0
 
 Total                                                                         _/100
