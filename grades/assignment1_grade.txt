@@ -1,0 +1,18 @@
+Assignment 1
+CAAP CMSC 101, Summer 2019
+
+1. Hello world:						5/2 pts
+2. Converter:						6/6 pts
+3. Unit Conversion:					6/6 pts
+4. Slope:							10/10 pts
+5. Fibonacci Sequence:				6/6 pts
+6. Part 2 - Change:					20/20 pts
+7. Part 4:							9/10 pts
+
+Readme file							0/0 pts
+
+Total								62/60 pts
+
+Comments:
+	-P7: Q2 asks for an alternative method/algorithm, as opposed to using the greedy algorithm, not for specific implementation of it.
+	- Great job!

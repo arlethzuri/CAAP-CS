@@ -1,0 +1,27 @@
+Assignments			Score
+------------------------------
+Labs:
+lab0				_/60
+lab1				_/100
+lab2				_/100
+lab3				_/100
+lab4				_/100
+					
+hw:					
+Assign_01			_/60
+					
+Quizzes:			
+Quiz_1				_/35
+Quiz_2				_/60
+Quiz_3				_/_
+Quiz_4				_/_
+Quiz_5				_/_
+					
+Projects:			
+Project_1			_/100
+Final Presentation	_/100
+------------------------------
+
+Current_Total		_/_
+
+Current_Grade		_%
