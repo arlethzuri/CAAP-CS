@@ -1,16 +1,20 @@
 Lab 0
 CAAP CMSC 101, Summer 2019
 
-Task 1: 				_/10 points
-Task 2: 				_/5 points
-Task 3: 				_/5 points
-Task 4:					_/5 points
-Task 5:					_/5 points
-Task 6: 				_/5 points
-Task 7: 				_/5 points
-Task 8:					_/5 points
-Task 9:					_/5 points
-Task 10:				_/10 points
-Task 11 (Bonus):		_/0 points
+Task 1: 				10/10 points
+Task 2: 				5/5 points
+Task 3: 				5/5 points
+Task 4:					5/5 points
+Task 5:					5/5 points
+Task 6: 				5/5 points
+Task 7: 				5/5 points
+Task 8:					2/5 points
+Task 9:					2/5 points
+Task 10:				4/10 points
+Task 11 (Bonus):		2/0 points
 
-Total: 					_/60
+Total: 					50/60
+
+Comments:
+	-Make sure not include git changes markup in your final commits
+	-T8-T10: Seems like something went wrong here when unstaging the changes. A better explanation of each task is required.

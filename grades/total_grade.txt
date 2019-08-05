@@ -1,27 +1,28 @@
 Assignments			Score
 ------------------------------
 Labs:
-lab0				_/60
+lab0				50/60
 lab1				_/100
 lab2				_/100
-lab3				_/100
+lab3				N/A
 lab4				_/100
 					
-hw:					
-Assign_01			_/60
+hw:		
+Assign_00			38/40			
+Assign_01			62/60
+Assign_02			_/10
 					
 Quizzes:			
-Quiz_1				_/35
-Quiz_2				_/60
+Quiz_1				35/35
+Quiz_2				60/60
 Quiz_3				_/_
 Quiz_4				_/_
-Quiz_5				_/_
 					
 Projects:			
 Project_1			_/100
 Final Presentation	_/100
 ------------------------------
 
-Current_Total		_/_
+Current_Total		245/255
 
-Current_Grade		_%
+Current_Grade		96.08%
