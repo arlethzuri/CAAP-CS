@@ -25,3 +25,6 @@ main.save_image()
 
 #this tests out the 'triangle'
 main.triangle(50, "#000000")
+
+#this tests my circle function
+main.circle(10, "#000000")

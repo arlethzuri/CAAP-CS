@@ -66,7 +66,12 @@ def save_image(): # saves the screen to an image/vector file
     temp.getcanvas().postscript(file="myImage.eps")
 
 # You have a function for boxes, can you make functions for circles and triangles?
-#def circle(intRadius):
+def circle(intRadius, color):
+    myPen.begin_fill()
+    myPen.color(color)
+    myPen.circle(intRadius)
+    myPen.end_fill()
+    turtle.done()
     
 def triangle(intLength, color): #This can be an equilateral triangle, or not
     myPen.begin_fill()
