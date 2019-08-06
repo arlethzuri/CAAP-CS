@@ -2,34 +2,35 @@ Lab 1
 CAAP CMSC 101, Summer 2019
 
 Required Elements/Attributes
-  Correct use                                                                 _/3
-  Used all                                                                    _/3
-  Balanced amount                                                             _/3
+  Correct use                                                                 3/3
+  Used all                                                                    3/3
+  Balanced amount                                                             3/3
 
 Semantic markup
-  Well structured hierarchies                                                 _/20
+  Well structured hierarchies                                                 20/20
 
 Correct use of directories/files
-  Links                                                                       _/5
-  In docs directory (* should have same directories as given*)                _/5
-  Git sites works                                                             _/10
+  Links                                                                       4/5
+  In docs directory (* should have same directories as given*)                5/5
+  Git sites works                                                             10/10
 
 Validation
-  Both pages and stylesheets                                                  _/20
+  Both pages and stylesheets                                                  0/20
 
 Design/CSS
-  Dynamic screen size                                                         _/5
-  Efficient use of CSS on multiple pages                                      _/10
-  Professional design in both pages                                           _/5
+  Dynamic screen size                                                         5/5
+  Efficient use of CSS on multiple pages                                      10/10
+  Professional design in both pages                                           3/5
  
 
 Code style
-  format (* code looks good *)                                                _/3 
-  clarity (* logic is expressed clearly *)                                    _/3 
-  decomposition (* problems are factored into sensible subproblems *)         _/3
-  efficiency (* blatant inefficiencies are avoided *)                         _/2
+  format (* code looks good *)                                                3/3 
+  clarity (* logic is expressed clearly *)                                    3/3 
+  decomposition (* problems are factored into sensible subproblems *)         3/3
+  efficiency (* blatant inefficiencies are avoided *)                         2/2
 
 Bonus:                                                                        _/0
 Late:                                                                        -5/0
 
-Total                                                                         _/100
+Total                                                                         77/100
+  -Validate your files and check in with me for getting those points back -Jose
