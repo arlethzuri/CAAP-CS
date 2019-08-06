@@ -1,32 +1,35 @@
 Lab 2
 CAAP CMSC 101, Summer 2019
-Student Graded:
+Student Graded: Arleth
 
 Required Elements/Attributes/Functions
-  Used all modules                                                            _/3
-  Implemented all required functions                                          _/3
-  Added game content/more new scenes                                          _/3 
+  Used all modules                                                            3/3
+  Implemented all required functions                                          3/3
+  Added game content/more new scenes                                          3/3 
 
 Semantics/Syntax
-  Well structured modules                                                     _/20
+  Well structured modules                                                     20/20
 
-Correct use of directories/files                                              _/20
+Correct use of directories/files                                              20/20
 
 Tests
-  All pages/functions work correctly                                          _/20
+  All pages/functions work correctly                                          20/20
 
 Design/Classes/Modules
-  Dynamic gameplay/difficulty                                                 _/5
-  Efficient use of classes/global variables                                   _/10
-  Interesting storyline                                                       _/5
+  Dynamic gameplay/difficulty                                                 5/5
+  Efficient use of classes/global variables                                   10/10
+  Interesting storyline                                                       4/5
   
 
 Code style
-  format (* code looks good *)                                                _/3 
-  clarity (* logic is expressed clearly *)                                    _/3 
-  decomposition (* problems are factored into sensible subproblems *)         _/3
-  efficiency (* blatant inefficiencies are avoided *)                         _/2
+  format (* code looks good *)                                                3/3 
+  clarity (* logic is expressed clearly *)                                    3/3 
+  decomposition (* problems are factored into sensible subproblems *)         3/3
+  efficiency (* blatant inefficiencies are avoided *)                         2/2
 
-Bonus:                                                                        _/0
+Bonus:                                                                        0/0
 
-Total                                                                         _/100
+Total                                                                         99/100
+
+Comments:
+  -Great job!

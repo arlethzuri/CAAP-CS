@@ -29,7 +29,7 @@ Code style
   decomposition (* problems are factored into sensible subproblems *)         3/3
   efficiency (* blatant inefficiencies are avoided *)                         2/2
 
-Bonus:                                                                        _/0
+Bonus:                                                                        0/0
 Late:                                                                        -5/0
 
 Total                                                                         77/100
